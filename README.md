@@ -17,3 +17,4 @@ tenth Commit
 16 and test rebase not the same file
 First Commit for developBranch
 First Commit for newBranch
+Second Commit for newBranch
