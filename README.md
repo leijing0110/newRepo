@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 First Commit
 Second Commit test amend
 Third Commit  test modify
@@ -13,3 +14,4 @@ tenth Commit
 14 and test rebase
 15
 16 and test rebase not the same file
+First Commit for developBranch
